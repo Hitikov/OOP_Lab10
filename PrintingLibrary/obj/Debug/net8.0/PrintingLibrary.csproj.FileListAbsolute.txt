@@ -1,0 +1,11 @@
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\bin\Debug\net8.0\PrintingLibrary.deps.json
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\bin\Debug\net8.0\PrintingLibrary.dll
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\bin\Debug\net8.0\PrintingLibrary.pdb
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\PrintingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\PrintingLibrary.AssemblyInfoInputs.cache
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\PrintingLibrary.AssemblyInfo.cs
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\PrintingLibrary.csproj.CoreCompileInputs.cache
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\PrintingLibrary.dll
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\refint\PrintingLibrary.dll
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\PrintingLibrary.pdb
+C:\Cstm\.PSTU_works\OOP\Lab10\Project\PrintingLibrary\obj\Debug\net8.0\ref\PrintingLibrary.dll
